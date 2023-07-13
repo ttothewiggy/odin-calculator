@@ -229,3 +229,4 @@ function applyPercentage() {
     currentValue = Number(currentValue) / 100;
     currentScreen.textContent = currentValue;
 }
+
